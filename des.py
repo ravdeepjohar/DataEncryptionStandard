@@ -5,6 +5,7 @@ __Author__="Ravdeep Johar (rsj7209@g.rit.edu) & Karina Damico (kxd8163@rit.edu)"
 
 #Specify the souce of the file
 __file__="C:\Users\RSJ\Desktop\DES\des.py"
+#__file__="./des.py"
 
 # Add lib/ to the system path
 lib_directory = os.path.realpath(os.path.join(__file__, "../lib/"))
