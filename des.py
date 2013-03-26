@@ -1,7 +1,7 @@
 import sys
 import os.path
 
-__Author__="Ravdeep Johar (rsj7209@g.rit.edu) & Karina Molochinsky"
+__Author__="Ravdeep Johar (rsj7209@g.rit.edu) & Karina Damico (kxd8163@rit.edu)"
 
 #Specify the souce of the file
 __file__="C:\Users\RSJ\Desktop\DES\des.py"
